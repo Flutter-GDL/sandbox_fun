@@ -15,13 +15,13 @@ El link de flutter explicando el widget:
 [https://www.youtube.com/watch?v=7sUL66pTQ7Q](https://www.youtube.com/watch?v=7sUL66pTQ7Q)
 
 
-##Flutter branch
+## Flutter branch
 stable
 
-##Simuladores probados
+## Simuladores probados
 ![alt_text][ios_logo]![alt text][android_logo]
 
-##Hardware
+## Hardware
 ![alt text][android_logo]
 Pixel 3
 
@@ -32,7 +32,7 @@ iPhone 11Pro
 ## Licencia
 
 
-Flutter GDL y sus contenios estan bajo la licensia de CC4.0 
+Flutter GDL y sus contenidos estan bajo la licensia de CC4.0
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 

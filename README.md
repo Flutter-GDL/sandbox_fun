@@ -20,7 +20,9 @@ Todo codigo sera dado de alta y este readme sera constantemente actualizado
 
 ## Contenido
 
-- [Material Motion](#Material-Motion-(Febrero-21,-2020)
+- [Material Motion](#Material-Motion-(Febrero-21,-2020))
+- [ShaderMask (WOTW) Sample](#Shadermask-(WOTW)-Sample-(Febrero-28,-2020)))
+
 
 ##  Material Motion (Febrero 21, 2020)
 
@@ -28,6 +30,16 @@ Codigo ejemplo basado en "el nuevo material motion plugin de google"
 
 Folder:
 material_motion
+
+![alt_text][ios_logo]![alt text][android_logo]
+
+
+##  Shadermask (WOTW) Sample (Febrero 28, 2020)
+
+Codigo ejemplo basado en el shaderMask widget of the week
+
+Folder:
+shadermask_wotw
 
 ![alt_text][ios_logo]![alt text][android_logo]
 
