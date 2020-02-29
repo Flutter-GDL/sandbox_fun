@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 Widget heart({double width = 20, double height = 20}) {
   return Image.asset(
-    "assets/corazón.png",
+    "assets/corazon.png",
     width: width,
     height: height,
   );
